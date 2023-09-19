@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Irish-Jane-Alvarez
 - 👀 I’m interested in reading wattpad, watching movies and listening to musics
 - 🌱 I’m currently learning Python and Html
-- Programming language: Python and C++
+- Programming language: Python, C++, visual studio
 - Database: Sql Server 
 - 💞️ I’m looking to collaborate on...
 - 📫 How to reach me.. You can message me at Irish Jane Alvarez or alvarezirishjane07@gmail.com
