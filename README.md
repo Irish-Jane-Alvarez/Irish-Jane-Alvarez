@@ -4,7 +4,7 @@
 - Programming language: Python, C++, visual studio
 - Database: Sql Server 
 - 💞️ I’m looking to collaborate on...
-- 📫 How to reach me.. You can message me at Irish Jane Alvarez or alvarezirishjane07@gmail.com
+- 📫 How to reach me.. You can message me at my facebook account, Irish Jane Alvarez or eamil me at alvarezirishjane07@gmail.com
 - 
 <!---
 Irish-Jane-Alvarez/Irish-Jane-Alvarez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
